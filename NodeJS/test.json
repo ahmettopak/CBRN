@@ -1,0 +1,65 @@
+{
+    "type": "sensors",
+    "content": {
+        "Trend": 0.000165,
+        "IMSpos": [
+            0,
+            0,
+            0,
+            1.903754,
+            1.663280,
+            2.064070,
+            1.583122,
+            0
+        ],
+        "IMSneg": [
+            0,
+            0,
+            0,
+            1.823596,
+            1.643240,
+            2.044031,
+            1.543043,
+            0
+        ],
+        "rel_IMSpos": [
+            0,
+            0,
+            0,
+            0.040079,
+            0.040079,
+            0.040079,
+            0.040079,
+            0
+        ],
+        "rel_IMSneg": [
+            0,
+            0,
+            0,
+            0.040079,
+            0.040079,
+            0.060118,
+            0.040079,
+            0
+        ],
+        "ImsSumAbs": 14.268137,
+        "ImsSumRel": 0.340672,
+        "PumpPwm": 100.000000,
+        "Flow": 1.292011,
+        "ImsFlow": 0,
+        "CellTemp": 41.803448,
+        "Humidity": 14.994996,
+        "AbsoluteHumidity": 8.367186,
+        "AirPressure": 895.000000,
+        "ScCell1R": 257604.000000,
+        "ScCell2R": 10508.000000,
+        "ScCell3R": 5066.000000,
+        "MOS2_SensorResistance": 232932.000000,
+        "ScCell1RAbsPerBl": 1.006108,
+        "ScCell2RAbsPerBl": 1.010676,
+        "ScCell3RAbsPerBl": 1.001186,
+        "MOS2_SensorResistanceAbsPerBl": 0.996164,
+        "EC_Value": 0,
+        "flow_lpm_std": 1.292011
+    }
+}
